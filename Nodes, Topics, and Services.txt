@@ -1,0 +1,7 @@
+node: it is the running code responsible for a function in ros 2
+( each node do 1 function ) 
+
+topic: it communicates with the nodes to exchange data continuously
+( node 1 -> topic -> node 2 ) 
+
+services: it is like the topic but it is used once per request
